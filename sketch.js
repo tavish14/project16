@@ -63,7 +63,7 @@ function draw() {
        
        
        
-       knifeSwooshSoundplay();
+       knifeSwooshSound.play();
 
 
       
